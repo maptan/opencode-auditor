@@ -1,3 +1,6 @@
+**This plugin is not built by the OpenCode team and is not affiliated with them in any way.**
+**This plugin is a personal test, provided as-is without any insurance. Use at your own risk**
+
 # opencode-auditor
 
 A **passive, tiered second-opinion reviewer** for [OpenCode](https://opencode.ai). It watches what
